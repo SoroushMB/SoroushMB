@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="300" height="300" src="https://img.pikbest.com/backgrounds/20190909/future-ai-sense-technology-gif-background_2841170.jpg!c1024wm0">
 
 
 ### Hello World 👋 My name is Soroush!
