@@ -5,9 +5,9 @@
 ## ✉️ Find me on:
 
 <p style="left: 0">
- <a href="https://github.com/SoroushMB" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/soroush-masoombabaei" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="soroushmasoombabaei@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/SoroushMB" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/soroush-masoombabaei" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="soroushmasoombabaei@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
@@ -17,6 +17,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://play-lh.googleusercontent.com/AmzHCh6UEelYfh9AfWXh1WIOC0Z_Z69N9bTvEi-hbRhDe7XL04xuuQfvQXCKLHSHcgVk" alt="Scratch" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src=" 
 </p>
-[![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB)](https://github.com/SoroushMB/github-readme-stats)
+
+
+## Stats:
+![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=midnight-purple&show_icons=true)
