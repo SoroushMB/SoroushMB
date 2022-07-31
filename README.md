@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **everything I can**
 
-- 👨‍💻 All of my projects are available at [here in Github](here in Github)
+- 👨‍💻 All of my projects are available at **Github**
 
-- 📝 I regularly write articles on [instagram](instagram)
+- 📝 I regularly write articles on **Instagram**
 
 - 💬 Ask me about **hardware of computers & smartphones**
 
