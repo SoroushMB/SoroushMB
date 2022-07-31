@@ -1,4 +1,4 @@
-<img align="right" style="border-radius: 40%;" alt="Coding" width="300" height="200" src="https://images.unsplash.com/photo-1625216109110-d444d70ff665?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=845&q=80">
+<img align="right" alt="Coding" width="300" height="300" src="https://img.pikbest.com/backgrounds/20190909/future-ai-sense-technology-gif-background_2841170.jpg!c1024wm0">
 
 
 ### Hello World 👋 My name is Soroush!
@@ -8,7 +8,7 @@
 - Instructor at Poulstar Programming Institute.
 - You can find me via links below:
 
-<p style="left: 0">
+<p>
  <a href="https://github.com/SoroushMB" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/soroush-masoombabaei" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://instagram.com/protechbites?igshid=YmMyMTA2M2Y=" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
