@@ -3,17 +3,23 @@
 - Always looking forward to learn everything about infinite World of technology!
 - Beginner Python/AI programmer.
 - Instructor at Poulstar Programming Institute.
-
-## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=codeSTACKr&show_icons=true)](https://github.com/SoroushMB/github-readme-stats)
-
-## ✉️ Find me on:
+- You can find me via links below:
 
 <p style="left: 0">
  <a href="https://github.com/SoroushMB" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/soroush-masoombabaei" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://instagram.com/protechbites?igshid=YmMyMTA2M2Y=" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+## Repo Card:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=codeSTACKr&show_icons=true)](https://github.com/SoroushMB/github-readme-stats)
+
+## Stats:
+![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=codeSTACKr&show_icons=true)
+
+## Activity Graph:
+
+[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=material-palenight	)](https://github.com/sadafamininia99/github-readme-activity-graph)
 
 <br />
 
@@ -26,5 +32,3 @@
 </p>
 
 
-## Stats:
-![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=codeSTACKr&show_icons=true)
