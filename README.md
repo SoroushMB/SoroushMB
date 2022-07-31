@@ -1,3 +1,6 @@
+<img align="right" style="border-radius: 40%;" alt="Coding" width="300" height="200" src="https://images.unsplash.com/photo-1625216109110-d444d70ff665?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=845&q=80">
+
+
 ### Hello World 👋 My name is Soroush!
 - I'm a learner & teacher at the same time.
 - Always looking forward to learn everything about infinite World of technology!
