@@ -1,5 +1,5 @@
 ### Hello World 👋 My name is Soroush!
-- I'm a learner & teacher at the same.
+- I'm a learner & teacher at the same time.
 - Always looking forward to learn everything about infinite World of technology!
 - Beginner Python/AI programmer.
 - Instructor at Poulstar Programming Institute.
