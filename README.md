@@ -2,7 +2,7 @@
 - I'm a learner & teacher at the same.
 - Always looking forward to learn everything about infinite World of technology!
 - Beginner Python/AI programmer.
-- Instructor at PoulStar Programming Institute.
+- Instructor at Poulstar Programming Institute.
 
 ## Repo Card:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=codeSTACKr&show_icons=true)](https://github.com/SoroushMB/github-readme-stats)
