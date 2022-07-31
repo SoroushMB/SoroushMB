@@ -1,16 +1,30 @@
+<h1 align="center">Hi 👋, I'm Soroush MasoomBabaei</h1>
+<h3 align="center">A passionate beginner Artificial Intelligence developer from Iran</h3>
 
+- 🔭 I’m currently working on **getting better everyday**
 
-### Hello World 👋 My name is Soroush!
-- I'm a learner & teacher at the same time.
-- Always looking forward to learn everything about infinite World of technology!
-- Beginner Python/AI programmer.
-- Instructor at Poulstar Programming Institute.
-- You can find me via links below:
+- 🌱 I’m currently learning **AI,Python,Django**
 
-<p>
- <a href="https://github.com/SoroushMB" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/soroush-masoombabaei" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/protechbites?igshid=YmMyMTA2M2Y=" target="_blank" rel="noopener noreferrer"> <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+- 👯 I’m looking to collaborate **on projetcs**
+
+- 🤝 I’m looking for help with **everything I can**
+
+- 👨‍💻 All of my projects are available at [here in Github](here in Github)
+
+- 📝 I regularly write articles on [instagram](instagram)
+
+- 💬 Ask me about **hardware of computers & smartphones**
+
+- 📫 How to reach me **soroushcars@gmail.com**
+
+- ⚡ Fun fact **I love to know about technology & nature**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soroushtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soroushtech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soroush masoom babaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soroush masoom babaei" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/soroushmb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soroushmb" height="30" width="40" /></a>
+<a href="https://instagram.com/protechbites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="protechbites" height="30" width="40" /></a>
 </p>
 
 ## Repo Card:
@@ -23,14 +37,6 @@
 
 [![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=material-palenight	)](https://github.com/sadafamininia99/github-readme-activity-graph)
 
-<br />
 
-## 🧰 Languages and Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://play-lh.googleusercontent.com/AmzHCh6UEelYfh9AfWXh1WIOC0Z_Z69N9bTvEi-hbRhDe7XL04xuuQfvQXCKLHSHcgVk" alt="Scratch" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/fa/9/9f/2015_Final_Cut_Pro_Logo.png" alt="Final Cut Pro" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
