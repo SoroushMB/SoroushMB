@@ -28,10 +28,10 @@
 </p>
 
 ## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=gotham&show_icons=true)](https://github.com/SoroushMB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=gotham&show_icons=true&radius=16)](https://github.com/SoroushMB/github-readme-stats)
 
 ## Stats:
-![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=gotham&show_icons=true)
+![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=gotham&show_icons=true7radius=16)
 
 ## Activity Graph:
 
