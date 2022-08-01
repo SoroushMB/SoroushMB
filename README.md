@@ -35,7 +35,7 @@
 
 ## Activity Graph:
 
-[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=gotham)](https://github.com/sadafamininia99/github-readme-activity-graph)
+[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=gotham&radius=16)](https://github.com/sadafamininia99/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
