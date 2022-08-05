@@ -27,6 +27,14 @@
 <a href="https://instagram.com/protechbites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="protechbites" height="30" width="40" /></a>
 </p>
 
+## Badges:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+
 ## Repo Card:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=gotham&show_icons=true&radius=16)](https://github.com/SoroushMB/github-readme-stats)
 
@@ -34,6 +42,7 @@
 ![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=gotham&show_icons=true7radius=16)
 
 ## Activity Graph:
+
 
 [![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=gotham&radius=16)](https://github.com/sadafamininia99/github-readme-activity-graph)
 
