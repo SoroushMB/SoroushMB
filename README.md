@@ -1,3 +1,6 @@
+![](./src/header_.png)
+<p align="center">
+
 <h1 align="center">Hi 👋, I'm Soroush MasoomBabaei</h1>
 <h3 align="center">A passionate beginner Artificial Intelligence developer from Iran</h3>
 
