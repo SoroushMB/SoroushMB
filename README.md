@@ -1,4 +1,4 @@
-![](./header.png)
+![](./header.jpg)
 <p align="center">
 
 <h1 align="center">Hi 👋, I'm Soroush MasoomBabaei</h1>
