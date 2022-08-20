@@ -94,7 +94,7 @@
 ## Activity Graph:
 
 
-[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=outrun&radius=16)](https://github.com/sadafamininia99/github-readme-activity-graph)
+[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=material-palenight&radius=16)](https://github.com/sadafamininia99/github-readme-activity-graph)
 
 
 <h3 align="left">If you want to be like me or more:</h3>
