@@ -1,4 +1,4 @@
-![](./header.jpg)
+![](./banner(2.0).jpg)
 <p align="center">
 
 <h1 align="center">Hi 👋, I'm Soroush MasoomBabaei</h1>
@@ -83,13 +83,13 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=outrun&show_icons=true&radius=16)](https://github.com/SoroushMB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=outrun&show_icons=true&radius=32)](https://github.com/SoroushMB/github-readme-stats)
 
 ## Stats:
-![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=outrun&show_icons=true7radius=16)
+![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=outrun&show_icons=true7radius=32)
 
 ## Contributions :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoroushMB&theme=holi-theme&date_format=j%2Fn%5B%2FY%5D&fire=DD2727)](https://git.io/streak-stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoroushMB&theme=holi-theme&radius=32&date_format=j%2Fn%5B%2FY%5D&fire=DD2727)](https://git.io/streak-stats" /></p>
 
 ## Activity Graph:
 
