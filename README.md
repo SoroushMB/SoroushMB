@@ -82,15 +82,12 @@
 ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## Repo Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushMB&langs_count=4&theme=outrun&show_icons=true&radius=32)](https://github.com/SoroushMB/github-readme-stats)
 
 ## Stats:
-![SoroushMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoroushMB&theme=outrun&show_icons=true7radius=32)
-
-## Contributions :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoroushMB&theme=holi-theme&radius=32&date_format=j%2Fn%5B%2FY%5D&fire=DD2727)](https://git.io/streak-stats" /></p>
-
+## [dracula](./dracula/README.md)
+[![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ## Activity Graph:
 
 
