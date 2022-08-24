@@ -84,14 +84,10 @@
 
 
 ## Stats:
-## [dracula](./dracula/README.md)
+
 [![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SoroushMB/SoroushMB/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-## Activity Graph:
-
-
-[![Soroush MasoomBabaei's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoroushMB&theme=material-palenight&radius=16)](https://github.com/sadafamininia99/github-readme-activity-graph)
 
 
 <h3 align="left">If you want to be like me or more:</h3>
